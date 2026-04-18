@@ -10,6 +10,7 @@ body {
   color: #333;
 }
 h1 { font-size: 2rem; margin-bottom: 8px; }
+#page-title { font-weight: bold !important; text-decoration: underline; }
 p { color: #666; margin-bottom: 32px; }
 #main-btn {
   background: linear-gradient(to right, blue, red);
