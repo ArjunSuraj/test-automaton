@@ -2,6 +2,8 @@
 
 Test repository for the Automaton UI Developer agent.
 
+This repo is also used for Automaton soak tests.
+
 This repository is used for disposable Automaton autonomy tests.
 
 This repo contains a simple HTML app used to validate the agent's ability to pick up GitHub issues, implement UI changes, and create pull requests.
