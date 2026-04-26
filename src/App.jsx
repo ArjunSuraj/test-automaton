@@ -12,7 +12,7 @@ function App() {
       <p>Bounded soak running</p>
       <button id="main-btn">Click Me</button>
       <footer>© 2026 Copyright Test Automaton - Automaton soak</footer>
-      <p className="footer-test">Disposable autonomy test page</p>
+      <p className="footer-test">Disposable autonomy validation page</p>
     </>
   )
 }
