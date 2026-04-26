@@ -5,7 +5,6 @@ Test repository for the Automaton UI Developer agent.
 This repository is used for disposable Automaton autonomy tests.
 
 Auto-merge soak validation is enabled for disposable Automaton tests.
-
 Bounded Docker soak validation uses this disposable repository only.
 
 Bounded 6h soak validation uses this disposable repository only.
