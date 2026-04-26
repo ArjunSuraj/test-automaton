@@ -8,7 +8,7 @@ function App() {
       <p>A simple test app for the automaton UI developer agent.</p>
       <p>Soak test ready</p>
       <button id="main-btn">Click Me</button>
-      <footer>© 2026 Copywright Test Automaton - Automaton soak</footer>
+      <footer>© 2026 Copyright Test Automaton - Automaton soak</footer>
       <p className="footer-test">Disposable autonomy test page</p>
     </>
   )
