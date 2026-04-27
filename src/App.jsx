@@ -11,6 +11,7 @@ function App() {
       <p>Bounded soak running</p>
       <p>Bounded soak running</p>
       <button id="main-btn">Docker Stable</button>
+      <footer>© 2026 Copyright Test Automaton - Automaton soak</footer>
       <p className="footer-test">Disposable autonomy validation page</p>
       <footer>built by junior-dev (auto-pickup)</footer>
     </>
