@@ -2,6 +2,8 @@
 
 Test repository for the Automaton UI Developer agent.
 
+This repo is also used for Automaton soak tests.
+
 This repository is used for disposable Automaton autonomy tests.
 
 Auto-merge soak validation is enabled for disposable Automaton tests.
